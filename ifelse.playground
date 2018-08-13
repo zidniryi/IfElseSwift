@@ -1,0 +1,11 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+var BangunTidur = 4.30
+
+if BangunTidur == 7.30 {
+    print("Anda tepat waktu untuk subuh")
+}else{
+    print("Anda bangun tidak tepat waktu")
+}
